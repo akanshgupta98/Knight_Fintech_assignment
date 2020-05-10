@@ -14,6 +14,10 @@ Naive-Bayes:          50 %
 SGDC:                 74 %
 Logistic Regression:  78 %
 
+
+The final predictions made on Test dataset are stored in predicted_test_data.csv
+
+
 5 Actionable Insights:
 
 1. The most number of wine were tasted by country U.S. That means increasing production and focusing on more on the quality can help increase profits.
